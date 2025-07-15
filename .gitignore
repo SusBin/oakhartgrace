@@ -1,0 +1,13 @@
+.DS_Store
+*.log
+node_modules/
+dist/
+*.tmp
+*.bak
+*.swp
+*.swo
+*.swn
+*.sublime-workspace
+*.sublime-project
+*.idea/
+*.vscode/
