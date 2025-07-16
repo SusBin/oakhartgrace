@@ -1,0 +1,26 @@
+
+body {
+  background-color: #f1e9dc;
+}
+
+/* Custom navbar background and text color */
+.navbar-custom {
+  background-color: #84745b; /* Example: warm brown */
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .nav-link,
+.navbar-custom .navbar-toggler-icon {
+  color: #fff; /* White text */
+}
+
+.navbar-custom .nav-link:hover {
+  color: #ffd7a0; /* Light gold on hover */
+}
+
+.navbar-toggler .fa-bars {
+	font-size: 1.5rem;
+	color: #fff;
+	pointer-events: none;
+
+}
